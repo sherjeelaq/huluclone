@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/sherjeelaq/huluclone">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Hulu_Logo.svg" alt="Logo" width="290">
-    <h1 style="text-align:right; text-decoration:none;">Clone</h1>
+    <h1 style="text-align:right;" align="right">Clone</h1>
   </a>
 
   <h3 align="center">Hulu Clone - Online Movie/TV Database</h3>
@@ -14,7 +14,7 @@
     <a href="https://github.com/sherjeelaq/huluclone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://project-9064d.web.app/">View Demo</a>
+    <a href="https://hulu-db.web.app/">View Demo</a>
     ·
     <a href="https://github.com/sherjeelaq/huluclone/issues">Report Bug</a>
     ·
