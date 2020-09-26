@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/sherjeelaq/huluclone">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Hulu_Logo.svg" alt="Logo" width="290">
-    <h1>Clone</h1>
+    Clone
   </a>
 
   <h3 align="center">Hulu Clone - Online Movie/TV Database</h3>
