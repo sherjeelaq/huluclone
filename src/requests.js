@@ -1,4 +1,4 @@
-const API_KEY = "f216294766523503024c78522a95c235";
+const API_KEY = "";
 
 function searchId(id) {
   return `/movie/${id}?api_key=${API_KEY}&append_to_response=videos,images`;
